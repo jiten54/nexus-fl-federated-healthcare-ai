@@ -1,0 +1,9 @@
+{
+  "name": "NEXUS-FL: Federated Healthcare Intelligence for Disease Detection",
+  "description": "A privacy-preserving AI system for pneumonia detection from chest X-rays using Federated Learning across global hospital nodes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
